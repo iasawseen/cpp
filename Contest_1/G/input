@@ -1,0 +1,45 @@
+10 10
+? 1 10
+^ 1 10 1
+? 1 10
+^ 2 3 10
+^ 3 4 5
+? 2 2
+? 3 3
+? 4 4
+? 1 5
+? 1 10
+5 4
+^ 2 2 1
+? 1 5
+? 1 2
+? 1 1
+0 0
+
+
+
+
+
+Test Result Work Time Memory Used Comment
+1 OK 0.031 sec 2.33Mb OK (1 tests, average n = 10.00, average q = 10.00, answers = 0, 1, 10, ...)
+2 OK 2.31Mb OK (6 tests, average n = 1.00, average q = 1.17, answers = 0, 0, 1)
+3 OK 0.078 sec 7.14Mb OK (1 tests, average n = 100000.00, average q = 2.00, answers = 999999999/100000)
+4 OK 0.094 sec 7.16Mb OK (1 tests, average n = 100000.00, average q = 3.00, answers = 1000000000, 1000000000)
+5 OK 0.062 sec 7.14Mb OK (1 tests, average n = 100000.00, average q = 2.00, answers = 1000000000)
+6 OK 0.796 sec 5.62Mb OK (15000 tests, average n = 4.51, average q = 5.99, answers = 5, 5, 0, ...)
+7 OK 0.874 sec 6.70Mb OK (15000 tests, average n = 6.00, average q = 6.00, answers = 0, 1/2, 9/5, ...)
+8 OK 0.998 sec 7.23Mb OK (5000 tests, average n = 20.00, average q = 20.00, answers = 2/3, 1, 7/3, ...)
+9 OK 1.014 sec 7.21Mb OK (50000 tests, average n = 2.00, average q = 2.00, answers = 1, 1, 3, ...)
+10 OK 0.016 sec 2.32Mb OK (10 tests, average n = 2.20, average q = 16.60, answers = 0, 48, 48, ...)
+11 OK 0.016 sec 2.33Mb OK (10 tests, average n = 2.10, average q = 134.60, answers = 0, 435, 435, ...)
+12 OK 0.047 sec 2.32Mb OK (10 tests, average n = 7.00, average q = 155.80, answers = 0, 475/2, 475/2, ...)
+13 OK 0.016 sec 2.36Mb OK (10 tests, average n = 68.50, average q = 156.40, answers = 0, 4480/23, 2131/8, ...)
+14 OK 0.218 sec 5.31Mb OK (1 tests, average n = 61465.00, average q = 1174.00, answers = 7794099465012/17813, 428434217, 3054842581420/4427, ...)
+15 OK 0.047 sec 7.16Mb OK (1 tests, average n = 100000.00, average q = 10.00, answers = 25735/26731, 32724/23641, 0, ...)
+16 OK 0.078 sec 7.16Mb OK (1 tests, average n = 100000.00, average q = 100.00, answers = 1622/81205, 119792/72385, 1606/1009, ...)
+17 OK 0.406 sec 7.17Mb OK (1 tests, average n = 100000.00, average q = 1000.00, answers = 1, 3041/2479, 1, ...)
+18 OK 3.292 sec 7.16Mb OK (1 tests, average n = 100000.00, average q = 10000.00, answers = 7408/65819, 0, 3, ...)
+19 TL 4.009 sec 7.15Mb
+20 OK 0.031 sec 2.31Mb OK (10 tests, average n = 10.00, average q = 65.00, answers = 586248256, 586248256, 586248256, ...)
+21 OK 0.515 sec 2.31Mb OK (10 tests, average n = 10.00, average q = 9055.00, answers = 999396491, 1999030575/2, 999634084, ...)
+22 OK 0.702 sec 2.31Mb OK (1 tests, average n = 42.00, average q = 99903.00, answers = 999936331, 1999874561/2, 999938230, ...)

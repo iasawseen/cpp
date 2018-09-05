@@ -1,0 +1,6 @@
+abacaba
+aba
+
+
+//        str_hash = (str_hash + prime - str[i - pattern.size()] * power % prime) % prime;
+//        str_hash = (str_hash * base + str[i]) % prime;
